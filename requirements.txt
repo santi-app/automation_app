@@ -1,0 +1,12 @@
+Python == 3.11.4
+Streamlit
+pandas
+win32com.client
+shutil
+os
+pythoncom
+tk
+zipfile
+datetime
+time
+selenium
