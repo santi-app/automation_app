@@ -1,4 +1,3 @@
-Python
 streamlit
 pandas
 win32com.client
