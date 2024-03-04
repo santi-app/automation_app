@@ -1,9 +1,2 @@
 streamlit
-pandas
-pywin32
-pythoncom
-tk
-zipfile
-datetime
-time
-selenium
+
