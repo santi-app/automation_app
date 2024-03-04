@@ -1,6 +1,6 @@
 streamlit
 pandas
-win32com.client
+pywin32
 shutil
 os
 pythoncom
